@@ -12,7 +12,7 @@ project:
   banner: ./images/Jupyter-back.png
   thumbnail: ./images/JupyterHealthLogoTransparentNoSpace.png
 site:
-  template: article-theme
+  template: book-theme
   title: JupyterHealth
   options:
     logo: ./images/JupyterHealthLogoTransparentNoSpace.png
