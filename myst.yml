@@ -16,6 +16,10 @@ site:
   title: JupyterHealth
   options:
     logo: ./images/JupyterHealthLogoTransparentNoSpace.png
-  nav: []
+  nav:
+    - title: About
+      url: /about
+    - title: Projects
+      url: /projects
   domains:
     - jupyterhealth.github.io
