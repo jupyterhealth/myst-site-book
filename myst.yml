@@ -20,8 +20,8 @@ site:
     hide_toc: true
   nav:
     - title: About
-      url: /about
+      url: /myst-site-book/about
     - title: Projects
-      url: /projects
+      url: /myst-site-book/projects
   domains:
     - jupyterhealth.github.io
