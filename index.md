@@ -57,8 +57,8 @@ JupyterHealth leverages its expertise across four pivotal domains, ensuring a co
 
 :::{image} ./images/Data.png
 :alt: Hard drives and disk plattersn
-:width: 377px
-:height: 370px
+:width: 250px
+:height: 246px
 :::
 
 ### Secure and Seamless
@@ -71,8 +71,8 @@ Ensure compliance and interoperability across healthcare systems with our robust
 
 :::{image} ./images/Computation.png
 :alt: Various computers linked to a cloud
-:width: 377px
-:height: 370px
+:width: 250px
+:height: 246px
 :::
 
 ### Powerful and Scalable
@@ -84,8 +84,8 @@ Leverage cutting-edge container technologies for flexible, cloud-based deploymen
 
 :::{image} ./images/Tools.png
 :alt: Gears and a cloud
-:width: 377px
-:height: 370px
+:width: 250px
+:height: 246px
 :::
 
 ### Customizable and Versatile
@@ -96,8 +96,8 @@ Access a suite of tools from JupyterHub, tailored to meet diverse healthcare and
 
 :::{image} ./images/Comm.png
 :alt: Simple human figures linked by chain surrounding a gear
-:width: 377px
-:height: 370px
+:width: 250px
+:height: 246px
 :::
 
 ### Collaborative and Supportive
