@@ -132,6 +132,11 @@ Join a thriving community fostering innovation through shared expertise, and ong
 :::
 
 :::{div}
+:class: text-center
+[Let's go →](https://github.com/jupyterhealth)
+:::
+
+:::{div}
 :class: pt-5 pb-5 mt-5 mb-5
 &nbsp;
 :::
