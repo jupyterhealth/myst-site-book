@@ -6,20 +6,10 @@ subtitle: Open Software Platform for Health Data Ingestion and Management Empowe
 
 +++ {"class": "col-page"}
 
-::::{grid}
-:::{grid-item}
+:::{div}
+:class: pt-5 pb-5 mt-5 mb-5
+&nbsp;
 :::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
 
 ## Our Core Ideals
 
@@ -60,22 +50,10 @@ Our core values of innovation, collaboration, and openness drive us to build a h
 
 :::::
 
-
-::::{grid}
-:::{grid-item}
+:::{div}
+:class: pt-5 pb-5 mt-5 mb-5
+&nbsp;
 :::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
-
 
 ## Our Core Capabilities
 
@@ -139,45 +117,24 @@ Join a thriving community fostering innovation through shared expertise, and ong
 
 :::::
 
-::::{grid}
-:::{grid-item}
+:::{div}
+:class: pt-5 pb-5 mt-5 mb-5
+&nbsp;
 :::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
 
 ## Start your contribution now!
 
-:::{image} ./images/hands.jpg
+:::{figure} ./images/hands.jpg
 :width: 810px
 :height: 300px
 :alt: Raised, ethusiastic hands, surrounded by floating hearts
+
 :::
 
-[Let's go](https://github.com/jupyterhealth).
-
-::::{grid}
-:::{grid-item}
+:::{div}
+:class: pt-5 pb-5 mt-5 mb-5
+&nbsp;
 :::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
-
-::::{grid}
-:::{grid-item}
-:::
-::::
 
 ## Founders & Contributors
 
