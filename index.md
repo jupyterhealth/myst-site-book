@@ -4,7 +4,7 @@ subtitle: Open Software Platform for Health Data Ingestion and Management Empowe
 
 ---
 
-
++++ {"class": "col-page-right"}
 
 ## Our Core Ideals
 
