@@ -7,7 +7,7 @@ subtitle: Open Software Platform for Health Data Ingestion and Management Empowe
 +++ {"class": "col-page"}
 
 :::{div}
-:class: pt-5 pb-5 mt-5 mb-5
+:class: pt-2
 &nbsp;
 :::
 
@@ -51,7 +51,7 @@ Our core values of innovation, collaboration, and openness drive us to build a h
 :::::
 
 :::{div}
-:class: pt-5 pb-5 mt-5 mb-5
+:class: pt-2
 &nbsp;
 :::
 
@@ -118,7 +118,7 @@ Join a thriving community fostering innovation through shared expertise, and ong
 :::::
 
 :::{div}
-:class: pt-5 pb-5 mt-5 mb-5
+:class: pt-2
 &nbsp;
 :::
 
@@ -137,7 +137,7 @@ Join a thriving community fostering innovation through shared expertise, and ong
 :::
 
 :::{div}
-:class: pt-5 pb-5 mt-5 mb-5
+:class: pt-2
 &nbsp;
 :::
 
