@@ -4,7 +4,7 @@ subtitle: Open Software Platform for Health Data Ingestion and Management Empowe
 
 ---
 
-+++ {"class": "col-page-right"}
++++ {"class": "col-page"}
 
 ## Our Core Ideals
 
@@ -51,7 +51,7 @@ Our core values of innovation, collaboration, and openness drive us to build a h
 JupyterHealth leverages its expertise across four pivotal domains, ensuring a comprehensive and integrated approach to healthcare data management and analysis. Each domain is designed to empower researchers, clinicians, and data scientists with the tools they need to excel in their fields.
 
 
-:::::{grid} 2
+:::::{grid} 4 4 4 4
 
 ::::{card}
 
