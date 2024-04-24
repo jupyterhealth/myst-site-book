@@ -6,6 +6,21 @@ subtitle: Open Software Platform for Health Data Ingestion and Management Empowe
 
 +++ {"class": "col-page"}
 
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
 ## Our Core Ideals
 
 Guided by open innovation and driven by community, JupyterHealth's Vision, Mission, and Values delineate our aspirations, define our actions, and describe our culture.
@@ -44,6 +59,22 @@ Our core values of innovation, collaboration, and openness drive us to build a h
 ::::
 
 :::::
+
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
 
 
 ## Our Core Capabilities
@@ -108,6 +139,21 @@ Join a thriving community fostering innovation through shared expertise, and ong
 
 :::::
 
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
 ## Start your contribution now!
 
 :::{image} ./images/hands.jpg
@@ -117,6 +163,21 @@ Join a thriving community fostering innovation through shared expertise, and ong
 :::
 
 [Let's go](https://github.com/jupyterhealth).
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
+
+::::{grid}
+:::{grid-item}
+:::
+::::
 
 ## Founders & Contributors
 
