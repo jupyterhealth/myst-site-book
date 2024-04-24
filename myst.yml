@@ -3,9 +3,7 @@ version: 1
 project:
   title: JupyterHealth
   subtitle: Open Software Platform for Health Data Ingestion and Management Empowering Researchers, Clinicians and Patients
-  #description: ''
   keywords: []
-  #authors: ['JupyterHealth Team']
   github: https://github.com/jupyterhealth/jupyterhealth.github.io
   exclude:
     - README.md
