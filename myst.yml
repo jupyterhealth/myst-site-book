@@ -16,6 +16,8 @@ site:
   title: JupyterHealth
   options:
     logo: ./images/JupyterHealthLogoTransparentNoSpace.png
+    hide_outline: true
+    hide_toc: true
   nav:
     - title: About
       url: /about
